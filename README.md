@@ -14,7 +14,7 @@ This repository consists of files required for end to end implementation and dep
 
 ## App Link
 If you want to view the deployed model, click on the following link:<br />
-[https://diabetescheckup.herokuapp.com/](https://diabetescheckup.herokuapp.com/)
+[https://diabetespredictor-app.herokuapp.com/](https://diabetespredictor-app.herokuapp.com/)
 
 A glimpse of the web app:
 
